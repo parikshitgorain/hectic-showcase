@@ -149,15 +149,17 @@ Cryptographically secure random ticket distribution for weekly raffles.
 
 ## 🖼️ Screenshots
 
-*Screenshots are provided for demonstration purposes only.*
-
-*(Add screenshots of:)*
 - Homepage with hero section
+- ![Homepage](screenshots/homepage.png)
 - Leaderboard (Shuffle.com/us toggle)
+- ![Leaderboard](screenshots/leaderboard.png)
 - Deposit guide page
+- ![Socials](screenshots/socials.png)
 - Socials page with streams
+- ![Weeklyraffle](screenshots/weeklyraffle.png)
 - Admin dashboard
-- Ticket generation interface
+- ![Dashboard](screenshot/leaderboard.png)
+
 
 ---
 
