@@ -157,8 +157,7 @@ Cryptographically secure random ticket distribution for weekly raffles.
 - ![Socials](screenshots/socials.png)
 - Socials page with streams
 - ![Weeklyraffle](screenshots/weeklyraffle.png)
-- Admin dashboard
-- ![Dashboard](screenshot/leaderboard.png)
+
 
 
 ---
