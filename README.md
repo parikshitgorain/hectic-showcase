@@ -301,14 +301,6 @@ See contact information above for licensing inquiries.
 
 ---
 
-## ❤️ Support the Work
-
-This project is actively maintained and continuously improved. It represents hundreds of hours of development, API integration, and community management.
-
-If you're interested in collaboration or supporting development, please reach out via email.
-
----
-
 **Built with ❤️ by Parikshit Gorain with AI assistance**
 
 *Last Updated: February 2026*
